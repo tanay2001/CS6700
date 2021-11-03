@@ -9,3 +9,6 @@ All assignments were hosted on the [AIcrowd platform](https://www.aicrowd.com/ch
 
 ### Paper Review
 - [Regularization and Feature Selection in Least-Squares Temporal Difference Learning](https://zicokolter.com/publications/kolter2009regularization.pdf)
+- [Review]()
+
+### Project 
