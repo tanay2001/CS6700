@@ -12,3 +12,8 @@ All assignments were hosted on the [AIcrowd platform](https://www.aicrowd.com/ch
 - [Review]()
 
 ### Project 
+The following gym environments were used 
+ - [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/) 
+ - [Taxi-v3](https://gym.openai.com/envs/Taxi-v3/)  <br>
+
+And a custom QuizBot environment 
